@@ -1,0 +1,29 @@
+From the "approved-building-permits" dataset, the following activities might affect the central location's day to day life:
+
+1. Electrical Permit - Replacement of 5 Ton water source heat pump above Meat cooler in Kitchen
+   - This work is being done at 201 Stuart Street. It is an electrical replacement project for a water source heat pump. The project is being carried out by Edward DiMarzio and has a declared valuation of $2,000. The permit was issued on November 20, 2023, and is set to expire on May 20, 2024.
+
+2. Electrical Permit - Replacement of 10 Ton Water source Heat Pump for server dining room above kitchen ceiling
+   - Another electrical replacement project for a larger water source heat pump. This work is also being done at 201 Stuart Street, by Edward DiMarzio. The declared valuation for this project is $3,000, and the permit was issued on November 20, 2023. It will expire on May 20, 2024.
+
+3. Electrical Permit - Install car charger for Apt #8............Space #3
+   - An electrical permit for installing a car charger in Apartment #8, Space #3. The work is being done at 27-29 Isabella Street by Raymond Daly. The declared valuation for this project is $3,800, and the permit was issued on November 22, 2023. It will expire on May 22, 2024.
+
+4. Electrical Low Voltage Permit - Installation of low voltage automation system @ DOT2201 State Transport Bldg
+   - This permit is for the installation of a low voltage automation system at the DOT2201 State Transport Building. The work is being done by Paul McWhinnie and has a declared valuation of $1,142,400. The permit was issued on November 28, 2023, and will expire on May 28, 2024.
+
+5. Electrical Low Voltage Permit - 20 Park Plaza Suite 614 new Cat6 data cabling
+   - This permit is for the installation of new Cat6 data cabling in Suite 614 at 20 Park Plaza. The work is being done by Doug Lynch and has a declared valuation of $6,897. The permit was issued on November 21, 2023, and will expire on May 21, 2024.
+
+6. Service Permit - Excavation Permit for new construction @ 350 Boylston St
+   - This permit is for excavation work associated with new construction at 350 Boylston St. The work location is 102 Providence St, and it involves new building utility connections and excavation for an electrical subcontractor. The permit was issued on November 20, 2023, and will expire on December 15, 2023.
+
+7. Capital Permit - Excavation Permit for gas main relay at Berkeley St @ Beacon St
+   - This permit is for the relay of a gas main at Berkeley St @ Beacon St. The work is being done by Feeney Brothers and has a declared valuation of $12,412. The permit was issued on November 22, 2023, and will expire on December 22, 2023.
+
+From the "moving-truck-permits" dataset, the following activity might affect the central location's day to day life:
+
+1. Movetrucks Street Occupancy Permit - Stand moving truck at curb
+   - There are two permits for standing moving trucks at the curb. These permits allow moving trucks to occupy certain street spaces for a specified period. The first permit was issued to a movetruck registered in Winchester, MA, on November 22, 2023, and expired on November 28, 2023. The second permit was issued to a movetruck registered in Boston, MA, on November 24, 2023, and expired on November 29, 2023.
+
+Overall, these activities involve electrical replacements, installations, low voltage work, excavation permits, and moving truck permits. While they may not directly impact the day to day life of the central location, residents and businesses nearby may experience some disruptions and increased activity during the construction or permit periods.

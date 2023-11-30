@@ -1,0 +1,57 @@
+Dưới đây là một danh sách các bộ dữ liệu có thông tin quan trọng về một địa điểm trung tâm. Dưới đây là một báo cáo đọc được của các hoạt động, tập trung vào những hoạt động có thể ảnh hưởng đến cuộc sống hàng ngày của họ:
+
+1. Ghi danh xây dựng được phê duyệt:
+- Số công trình: 115588
+- Số giấy phép: E1546596
+- Loại công việc: Điện
+- Mô tả công việc: Thay thế máy bơm nhiệt nguồn nước 5 tấn trên tủ hâm thịt trong nhà bếp
+- Ngày cấp: 20/11/2023
+- Ngày hết hạn: 20/05/2024
+- Trạng thái: Đang mở
+- Chủ sở hữu: 201 STUART STREET (OWNER) LLC
+- Loại hình sử dụng: Thương mại
+- Địa chỉ: 201-241 Stuart ST, Boston, MA 2116
+- Diện tích: 0.0 foot vuông
+
+2. Ghi danh xây dựng được phê duyệt:
+- Số công trình: 115589
+- Số giấy phép: E1546601
+- Loại công việc: Điện
+- Mô tả công việc: Thay thế máy bơm nhiệt nguồn nước 10 tấn cho phòng ăn phục vụ trên trần nhà bếp
+- Ngày cấp: 20/11/2023
+- Ngày hết hạn: 20/05/2024
+- Trạng thái: Đang mở
+- Chủ sở hữu: 201 STUART STREET (OWNER) LLC
+- Loại hình sử dụng: Thương mại
+- Địa chỉ: 201-241 Stuart ST, Boston, MA 2116
+- Diện tích: 0.0 foot vuông
+
+3. Ghi danh xây dựng được phê duyệt:
+- Số công trình: 115602
+- Số giấy phép: E1546687
+- Loại công việc: Điện
+- Mô tả công việc: Lắp đặt sạc xe ô tô cho căn hộ số 8
+- Ngày cấp: 22/11/2023
+- Ngày hết hạn: 22/05/2024
+- Trạng thái: Đang mở
+- Chủ sở hữu: MARC CONDOMINIUM TRUST
+- Loại hình sử dụng: Đa hộ gia đình
+- Địa chỉ: 27-29 Isabella ST, Boston, MA 2116
+- Diện tích: 0.0 foot vuông
+
+4. Ghi danh xây dựng được phê duyệt:
+- Số công trình: 248696
+- Số giấy phép: ELV1546090
+- Loại công việc: Điện áp thấp
+- Mô tả công việc: Lắp đặt hệ thống tự động hóa điện áp thấp tại tòa nhà DOT2201 State Transport
+- Ngày cấp: 28/11/2023
+- Ngày hết hạn: 28/05/2024
+- Trạng thái: Đang mở
+- Chủ sở hữu: PARK PLAZA CONDO TRUST
+- Loại hình sử dụng: Thương mại
+- Địa chỉ: 10-54 Park Pz, Boston, MA 2116
+- Diện tích: 0.0 foot vuông
+
+5. Ghi danh xây dựng được phê duyệt:
+- Số công trình: 248710
+- Số giấy ph

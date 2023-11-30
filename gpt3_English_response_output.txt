@@ -1,0 +1,5 @@
+The approved-building-permits dataset includes records of approved electrical permits. Some of the activities include electrical work at La Padrona restaurant, installation of wiring at Northeastern University, remodeling of a kitchen, renovation of a space at Flare Capital, installation of a solar PV system, restoration of power due to a fire, and kitchen renovations. These activities may affect people's day-to-day lives by impacting the availability and quality of electrical services.
+
+The big-belly-locations dataset includes geographic coordinates of various locations in Boston where Big Belly waste and recycling containers are located. This may be useful to residents and visitors looking for waste disposal options in the area.
+
+Lastly, the moving-truck-permits dataset contains records of street occupancy permits for moving trucks in different areas. This might affect traffic and parking availability in the listed locations, potentially impacting local residents and businesses.

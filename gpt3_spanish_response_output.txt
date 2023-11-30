@@ -1,0 +1,65 @@
+El siguiente es un informe legible por humanos en español de las actividades relacionadas con un lugar central, con un enfoque en aquellas que podrían afectar su vida cotidiana:
+
+1. Permiso de construcción aprobado (ID de conjunto de datos: approved-building-permits):
+   - Número de permiso: E1546596
+   - Tipo de trabajo: Eléctrico
+   - Descripción: Reemplazo de una bomba de calor fuente de agua de 5 toneladas sobre el refrigerador de carne en la cocina.
+   - Solicitante: Edward DiMarzio
+   - Valor declarado: $2,000.00
+   - Fecha de emisión: 20 de noviembre de 2023
+   - Fecha de vencimiento: 20 de mayo de 2024
+   - Estado: Abierto
+
+2. Permiso de construcción aprobado (ID de conjunto de datos: approved-building-permits):
+   - Número de permiso: E1546601
+   - Tipo de trabajo: Eléctrico
+   - Descripción: Reemplazo de una bomba de calor fuente de agua de 10 toneladas para el comedor del servidor sobre el techo de la cocina.
+   - Solicitante: Edward DiMarzio
+   - Valor declarado: $3,000.00
+   - Fecha de emisión: 20 de noviembre de 2023
+   - Fecha de vencimiento: 20 de mayo de 2024
+   - Estado: Abierto
+
+3. Permiso de construcción aprobado (ID de conjunto de datos: approved-building-permits):
+   - Número de permiso: E1546687
+   - Tipo de trabajo: Eléctrico
+   - Descripción: Instalación de cargador de automóvil en el Apartamento #8, Espacio #3.
+   - Solicitante: Raymond Daly
+   - Valor declarado: $3,800.00
+   - Fecha de emisión: 22 de noviembre de 2023
+   - Fecha de vencimiento: 22 de mayo de 2024
+   - Estado: Abierto
+
+4. Permiso de construcción aprobado (ID de conjunto de datos: approved-building-permits):
+   - Número de permiso: ELV1546090
+   - Tipo de trabajo: Eléctrico, Baja tensión
+   - Descripción: Instalación de un sistema de automatización de baja tensión en el edificio de transporte del Departamento de Transporte del Estado.
+   - Solicitante: Paul McWhinnie
+   - Valor declarado: $1,142,400.00
+   - Fecha de emisión: 28 de noviembre de 2023
+   - Fecha de vencimiento: 28 de mayo de 2024
+   - Estado: Abierto
+
+5. Permiso de construcción aprobado (ID de conjunto de datos: approved-building-permits):
+   - Número de permiso: ELV1546909
+   - Tipo de trabajo: Eléctrico, Baja tensión
+   - Descripción: Instalación de cableado de datos Cat6 en la Suite 614 de Park Plaza, para 30 puertos en 12 ubicaciones de oficinas/áreas abiertas, 2 ubicaciones de puntos de acceso inalámbrico y 1 ubicación de armario de servidores.
+   - Solicitante: Doug Lynch
+   - Valor declarado: $6,897.00
+   - Fecha de emisión: 21 de noviembre de 2023
+   - Fecha de vencimiento: 21 de mayo de 2024
+   - Estado: Abierto
+
+6. Permiso de excavación (ID de conjunto de datos: moving-truck-permits):
+   - Número de permiso: EXCA-1488875
+   - Tipo de trabajo: Servicio de Excavación
+   - Descripción: Mantenimiento de la seguridad peatonal, instalación de nueva drenaje en la carretera, excavación para el subcontratista eléctrico.
+   - Solicitante: NaN
+   - Valor declarado: $0.00
+   - Fecha de emisión: 20 de noviembre de 2023
+   - Fecha de vencimiento: 15 de diciembre de 2023
+   - Estado: Abierto
+
+7. Permiso de excavación (ID de conjunto de datos: moving-truck-permits):
+   - Número de permiso: EXCA-1519830
+   -
