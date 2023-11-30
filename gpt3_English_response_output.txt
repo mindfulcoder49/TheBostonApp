@@ -1,5 +1,60 @@
-The approved-building-permits dataset includes records of approved electrical permits. Some of the activities include electrical work at La Padrona restaurant, installation of wiring at Northeastern University, remodeling of a kitchen, renovation of a space at Flare Capital, installation of a solar PV system, restoration of power due to a fire, and kitchen renovations. These activities may affect people's day-to-day lives by impacting the availability and quality of electrical services.
+Report on Activities Affecting the Average Resident, Investor, or Property Owner
 
-The big-belly-locations dataset includes geographic coordinates of various locations in Boston where Big Belly waste and recycling containers are located. This may be useful to residents and visitors looking for waste disposal options in the area.
+1. Approved Building Permits:
+   - Location: 201-241 Stuart St, Boston, MA 2116
+   - Time and Date: November 20, 2023, at 18:28:17 UTC
+   - Description: Replacement of a 5 Ton water source heat pump above the meat cooler in the kitchen.
 
-Lastly, the moving-truck-permits dataset contains records of street occupancy permits for moving trucks in different areas. This might affect traffic and parking availability in the listed locations, potentially impacting local residents and businesses.
+2. Approved Building Permits:
+   - Location: 201-241 Stuart St, Boston, MA 2116
+   - Time and Date: November 20, 2023, at 18:17:55 UTC
+   - Description: Replacement of a 10 Ton Water source Heat Pump for the server dining room above the kitchen ceiling.
+
+3. Approved Building Permits:
+   - Location: 27-29 Isabella St, Boston, MA 2116
+   - Time and Date: November 22, 2023, at 18:23:13 UTC
+   - Description: Installation of a car charger for Apartment #8, Space #3.
+
+4. Approved Building Permits:
+   - Location: 340-360 Boylston St, Boston, MA 2116
+   - Time and Date: November 29, 2023, at 18:32:48 UTC
+   - Description: Core & Shell service, lighting & power.
+
+5. Electrical Low Voltage Permit:
+   - Location: 10-54 Park Pz, Boston, MA 2116
+   - Time and Date: November 28, 2023, at 13:09:58 UTC
+   - Description: Installation of a low voltage automation system at DOT2201 State Transport Building.
+
+6. Electrical Low Voltage Permit:
+   - Location: 50 Park PZ, Boston, MA 2116
+   - Time and Date: November 21, 2023, at 18:04:23 UTC
+   - Description: New Cat6 data cabling for 12 office/open area locations, 2 WAP locations, and 1 server cabinet location.
+
+7. Excavation Permit:
+   - Location: 52 Providence St, Boston, MA 2116
+   - Time and Date: November 20, 2023, at 16:37:34 UTC
+   - Description: New construction at 350 Boylston St, including utility connections and excavation for electrical subcontractor.
+
+8. Excavation Permit:
+   - Location: 0 Berkeley St, Boston, MA 2116
+   - Time and Date: November 22, 2023, at 14:22:25 UTC
+   - Description: Relay gas main at Berkeley St @ Beacon St.
+
+9. Short Form Building Permit:
+   - Location: 75 Arlington St, Boston, MA 2116
+   - Time and Date: November 21, 2023, at 16:40:10 UTC
+   - Description: Minor works for new security walls, doors, painting & LVT flooring installation.
+
+10. Short Form Building Permit:
+    - Location: 26 Melrose St, Boston, MA 2116
+    - Time and Date: November 27, 2023, at 15:33:59 UTC
+    - Description: Repointing rear facade, restoring brownstone sills and lintels, painting fire escapes.
+
+11. Moving Truck Permits:
+    - Location: Stand at curb, Boston, MA 2116
+    - Time and Date: November 22, 2023, to November 28, 2023
+    - Description: Permit for moving trucks to occupy street space.
+
+12. Moving Truck Permits:
+    - Location: Stand at curb, Boston, MA 2116
+    - Time and Date: November 24, 202
